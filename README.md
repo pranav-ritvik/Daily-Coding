@@ -1,29 +1,32 @@
-Daily Coding Challenge Journey
-Welcome to my coding practice repository! This is where I document my daily problem-solving journey on CodeChef and LeetCode.
+🚀 Daily Coding Practice
+I’m on a mission to improve my problem-solving skills by coding every single day 💻.
+Currently maintaining:
 
-About This Repository
-I'm committed to improving my algorithmic thinking and coding skills through consistent daily practice. This repository serves as:
+🏆 39-day streak on CodeChef
 
-A comprehensive collection of my solutions
+📈 Consistent problem-solving on LeetCode
 
-A tracker of my progress and learning journey
+📂 Pushing all solved problems here to track progress and revisions
 
-A reference for different problem-solving approaches
+📅 Daily Routine
+Solve at least 1–3 problems daily
 
-A showcase of coding patterns and techniques
+Covering Data Structures, Algorithms, and Competitive Programming
 
-Current Focus
-Starting Date: July 24, 2025
-Platforms: CodeChef & LeetCode
-Goal: Solve at least 1 problem daily
-Languages: C++, Python, Java
+Switching between CodeChef, LeetCode, and other platforms to keep challenges diverse
 
-Progress Tracker
-2025 Statistics
-Total Problems Solved: [Update daily]
+📊 Current Stats
+CodeChef: 39-day streak (and counting!)
 
-Current Streak: [X] days
+LeetCode: Actively solving & optimizing solutions
 
-Favorite Topics: Arrays, Dynamic Programming, Graphs
+GitHub: daily commits for all practice problems
 
-Monthly Goal: 31 problems in January
+🎯 Goals
+Maintain streaks without fail
+
+Improve speed & accuracy in contests
+
+Build strong fundamentals in DSA
+
+Gradually shift to advanced competitive programming topics
