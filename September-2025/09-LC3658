@@ -1,0 +1,12 @@
+class Solution:
+    def gcdOfOddEvenSums(self, n: int) -> int:
+        sumodd = n * (n + 1)
+        sumeven = n * n
+        return self.gcd(sumodd, sumeven)
+
+    def gcd(self, a, b):
+        while b != 0:
+            temp = b
+            b = a % b
+            a = temp
+        return a
