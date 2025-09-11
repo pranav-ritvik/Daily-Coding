@@ -1,0 +1,21 @@
+# cook your dish here
+import sys
+
+it = iter(sys.stdin.read().split())
+t = int(next(it))
+out = []
+
+for _ in range(t):
+    n = int(next(it))
+    c = [int(next(it)) for _ in range(n)]
+    reds = c.count(1)
+    blues = c.count(2)
+
+    if n % 2 == 1:
+        out.append("No")
+    elif reds <= n // 2 and blues <= n // 2:
+        out.append("Yes")
+    else:
+        out.append("No")
+
+print("\n".join(out))
