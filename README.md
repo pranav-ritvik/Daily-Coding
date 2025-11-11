@@ -2,7 +2,7 @@
 I’m on a mission to improve my problem-solving skills by coding every single day 💻.  
 Currently maintaining:  
 
-🏆 **85-day streak on CodeChef**  
+🏆 **121-day streak on CodeChef**  
 
 📈 **Consistent problem-solving on LeetCode**  
 
